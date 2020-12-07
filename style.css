@@ -1,17 +1,15 @@
 .navbar {
     max-height: 50px;
+    background-color: rgb(255, 255, 255);
+    font-size: 15px;
 }
 .navigation .navbar-brand {
     color: rgb(217, 223, 224);
-    margin-left: 0px;
+    margin-left: 50px;
     padding: inherit;
     font-weight: bold;
     background-color: rgb(255, 255, 255);
     font-family: "Times New Roman";
-}
-.navbar {
-    background-color: rgb(255, 255, 255);
-    font-size: 25px; 
 }
 .active, .dropdown-menu .dropdown-item:active a:hover {
     background-color: rgb(255,255,255);
