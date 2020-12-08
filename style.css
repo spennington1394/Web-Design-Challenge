@@ -46,16 +46,15 @@
     padding: 10px;
 }
 button{
-    margin-right: 30px;
+    margin-left: auto;
 }
 button:focus {
     outline: 1px dotted;
-    outline: auto 5px;
 }
 p {
     color: rgb(217, 223, 224);
     font-family: "Times New Roman";
-    font-size: 16px;
+    font-size: 14px;
 }
 img{
     width:100%;
